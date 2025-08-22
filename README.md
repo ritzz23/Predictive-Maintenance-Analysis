@@ -2,7 +2,7 @@
 "Predictive Maintenance Analysis – Google Colab"
 # 📊 Predictive Maintenance Analysis
 
-**Author:** [Muhammad Ahyan]  
+**Author:** Muhammad Ahyan  
 **Tools:** Python, Pandas, Matplotlib, Seaborn, Google Colab
 
 ## 📌 Project Overview
